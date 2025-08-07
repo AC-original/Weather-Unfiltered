@@ -1,17 +1,20 @@
-# Better Weather Interface
+# Better Weather Interface with OpenStreetMap
 
-This project uses the official Weather Channel API to deliver the **same accurate and trusted weather data**, presented through a **modern, fast, and user-friendly interface**.
+This project combines accurate weather data with the powerful mapping capabilities of **OpenStreetMap (OSM)** to deliver a seamless and user-friendly weather experience.
 
 ## About
 
-The Weather Channel provides high-quality weather data, but its interface can be cluttered and not very intuitive. This site focuses on improving the **user experience** by offering a clean, simple, and smooth way to access weather information—without modifying the underlying data.
+OpenStreetMap offers detailed, open-source map data used worldwide. This project leverages OSM to provide interactive, responsive maps alongside trusted weather information, enhancing visualization and navigation.
+
+The goal is to present weather data clearly and intuitively on top of high-quality maps, making it easier to understand and explore weather conditions in your area or anywhere in the world.
 
 ## Features
 
-- Official Weather Channel API data for accuracy and reliability  
-- Clean and minimalist design for quick weather insights  
-- Fast loading and responsive on all devices  
-- Easy and intuitive navigation  
+- Integration of OpenStreetMap for detailed, open-source maps  
+- Accurate weather data from reliable APIs  
+- Clean, minimalist interface focused on usability  
+- Fast loading and responsive design for all devices  
+- Intuitive navigation with interactive maps  
 - No ads or unnecessary distractions  
 
 ## Usage
@@ -24,4 +27,4 @@ Licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for detai
 
 ---
 
-*Note:* This project **does not alter or manipulate** the weather data; it improves **only the display and navigation** for a better user experience.
+*Note:* This project focuses on improving weather data presentation with enhanced mapping through OpenStreetMap. It does not alter or manipulate the underlying weather data.
